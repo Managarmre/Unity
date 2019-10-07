@@ -8,4 +8,3 @@
 
 ## Next steps
 - Add a button to quit the game Space Invaders
-- Create my own game without tutorial
