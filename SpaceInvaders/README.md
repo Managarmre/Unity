@@ -11,3 +11,4 @@ How to play
 - d: go to the right
 - left clic on mouse: shot
 - r: restart the game
+- escape: quit the game
