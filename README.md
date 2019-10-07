@@ -7,4 +7,4 @@
 - [Cube](https://github.com/Managarmre/Unity/tree/master/Cube)
 
 ## Next steps
-- Add a button to quit the game Space Invaders
+- Create a game with animation
