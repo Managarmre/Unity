@@ -1,10 +1,10 @@
 # List of games:
 
-## Tutorials project
+## Tutorial projects
 - [Space Invaders](https://github.com/Managarmre/Unity/tree/master/SpaceInvaders)
 
 ## My games
 - [Cube](https://github.com/Managarmre/Unity/tree/master/Cube)
 
 ## Next steps
-- Create a game with animation
+- Create a game with animation and using sprites
